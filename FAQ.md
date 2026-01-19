@@ -24,7 +24,7 @@ We use feedback to prioritize what we build next.
 - Platform: iOS / Android / Web
 - Screenshots or quick mockups (optional)
 
-Submit ideas here:
+Submit Feature Requests & Feedback Here:
 ---
 <script src="https://desk.zoho.com/portal/api/feedbackwidget/1111893000000396005?orgId=911803023&displayType=embeded"></script>
 <div id="zsfeedbackwidgetdiv"></div> 

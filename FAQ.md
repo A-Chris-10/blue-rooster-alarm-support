@@ -25,5 +25,6 @@ We use feedback to prioritize what we build next.
 - Screenshots or quick mockups (optional)
 
 Submit ideas here:
-**[Submit ideas](<script src="https://desk.zoho.com/portal/api/feedbackwidget/1111893000000396005?orgId=911803023&displayType=popout"></script>)**  
+**[Submit ideas](<script src="https://desk.zoho.com/portal/api/feedbackwidget/1111893000000396005?orgId=911803023&displayType=embeded"></script>
+<div id="zsfeedbackwidgetdiv"></div>)**  
 (Choose **Feature Request** as the issue type if available.)

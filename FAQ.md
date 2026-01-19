@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ Part 2
+title: FAQ
 ---
 ```.
 ## Support hours & response

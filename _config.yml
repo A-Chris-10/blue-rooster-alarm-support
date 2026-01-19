@@ -2,3 +2,21 @@ title: App Support FAQ
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+# Billing & Subscription Help
+
+If Blue Rooster Alarm includes paid features, this page helps troubleshoot purchase access.
+
+## Step 1 — Confirm you’re signed into the correct account
+Purchases are tied to the store account (App Store / Google Play) and sometimes to your in-app login.
+
+## Step 2 — Restore purchases
+Look for **Restore Purchases** in Settings (if available) and try it.
+
+## Step 3 — Confirm the charge
+Check your App Store / Google Play purchase history.
+
+## Step 4 — Still missing features?
+Submit a ticket with:
+- Platform (iOS/Android/Web)
+- What you purchased and when
+- Screenshot of the receipt (remove sensitive info if you prefer)

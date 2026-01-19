@@ -19,3 +19,5 @@ If you can, include:
 <div id="zsfeedbackwidgetdiv"></div>
 
 [Contact Email Support](mailto:support@7spaudiocreative.zohodesk.com)
+
+[FAQ Part 2](./faq-part-2.md)

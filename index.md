@@ -20,4 +20,4 @@ If you can, include:
 
 [Contact Email Support](mailto:support@7spaudiocreative.zohodesk.com)
 
-[FAQ Part 2](./faq-part-2.md)
+[FAQ](./faq.md)

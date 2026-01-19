@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 ---
-```.
+
 ## Support hours & response
 We typically respond as soon as possible. If your alarm issue is urgent, please include **“URGENT”** in the ticket subject and share the troubleshooting steps you already tried.
 
@@ -25,5 +25,5 @@ We use feedback to prioritize what we build next.
 - Screenshots or quick mockups (optional)
 
 Submit ideas here:
-**[Submit a Trouble Ticket](REPLACE_WITH_YOUR_TICKET_LINK)**  
+**[Submit ideas](<script src="https://desk.zoho.com/portal/api/feedbackwidget/1111893000000396005?orgId=911803023&displayType=popout"></script>)**  
 (Choose **Feature Request** as the issue type if available.)

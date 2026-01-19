@@ -21,3 +21,8 @@ Submit a ticket with:
 - Platform (iOS/Android/Web)
 - What you purchased and when
 - Screenshot of the receipt (remove sensitive info if you prefer)
+
+Submit a Ticket:
+---
+<script src="https://desk.zoho.com/portal/api/feedbackwidget/1111893000000396005?orgId=911803023&displayType=embeded"></script>
+<div id="zsfeedbackwidgetdiv"></div> 

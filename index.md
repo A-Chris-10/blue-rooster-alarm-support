@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Welcome to App Support
 Find answers to your questions below.
-Like, why is a rooster noise called a crow? I'm not sure but they make great alarms!
+Like, why is a rooster noise called a crow? I'm not sure, but they make great alarms!
 
 ## Before you submit a ticket (saves time)
 If you can, include:
